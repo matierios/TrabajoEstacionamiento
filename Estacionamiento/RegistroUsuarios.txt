@@ -1,0 +1,5 @@
+
+{"Usuario":"mati","Clave":"1234"}
+{"Usuario":"prueba","Clave":"prueba"}
+{"Usuario":"sistemas","Clave":"sistemas"}
+{"Usuario":"Luis","Clave":"Layco"}
