@@ -1,0 +1,12 @@
+{"Usuario":"mati","Clave":"1234"}
+{"Usuario":"prueba","Clave":"prueba"}
+{"Usuario":"sistemas","Clave":"sistemas"}
+{"Usuario":"Luis","Clave":"Layco"}
+{"Usuario":"prueba","Clave":"prueba"}
+{"Usuario":"emilia","Clave":"1029"}
+{"Usuario":"dionel","Clave":"marmori"}
+{"Usuario":"leo","Clave":"santoro"}
+{"Usuario":"del potro","Clave":"tenista"}
+{"Usuario":"pruebasis","Clave":"1234"}
+{"Mati":"ale","Clave":"1234"}
+{"Usuario":"sovo","Clave":"sovo"}
